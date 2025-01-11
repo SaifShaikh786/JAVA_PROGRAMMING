@@ -1,7 +1,7 @@
 public class P02Arithmatic_operation {
     public static void main(String[]arrgs)
 {
-    int a=100;
+    int a=100;// declaring part
     int b=20;
     System.out.println("The Addition is "+(a+b));
 
